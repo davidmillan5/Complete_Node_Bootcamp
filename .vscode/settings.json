@@ -18,5 +18,6 @@
     "titleBar.inactiveBackground": "#55a63099",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#55a630"
+  "peacock.color": "#55a630",
+  "cSpell.words": ["PRODUCTNAME", "PRODUCTNUTRIENTSNAME"]
 }
